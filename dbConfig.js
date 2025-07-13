@@ -1,7 +1,7 @@
 const dbConfig = {
     host: 'localhost',
     user: 'admin',
-    password: 'SuperSecretPassword123!',
+    password: 'THM{g1t_p4ss_fr0m_img}',
     database: 'myappdb'
 };
 module.exports = dbConfig;
